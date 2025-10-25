@@ -1,0 +1,5 @@
+Titanic Survival Prediction – Insights
+1. Females had a much higher survival rate than males.
+2. First-class passengers were more likely to survive than lower classes.
+3. Younger passengers had better survival chances.
+4. Random Forest achieved around 82% accuracy.
